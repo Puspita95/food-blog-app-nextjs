@@ -5,7 +5,7 @@ The Food Blog Application is a modern web application built using React, Next.js
 
 **Features**
 
-- Create, edit blog posts
+- Create & share blog posts
 - Upload and manage food images
 - Send mail to blog creators
 - SEO-friendly pages with Next.js
